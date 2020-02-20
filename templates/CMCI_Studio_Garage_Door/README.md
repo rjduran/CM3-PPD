@@ -1,3 +1,5 @@
+![screenshot](screenshot.png)
+
 ## Windows
 
 * 20 x 44 in (design for this size)
